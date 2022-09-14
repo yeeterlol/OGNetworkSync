@@ -8,8 +8,6 @@
 </p>
 
 > A bot which automatically converts OG Network Guild Chat to Discord
-<br>
-> Warning ⚠️: This is not allowed on OG Network, thanks to Mineflayer but before the admins told me I already completed it
 
 ### 🏠 [Homepage](https://github.com/yeeterlol/OGNetworkSync#readme)
 
