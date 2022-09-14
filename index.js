@@ -29,10 +29,6 @@ const {
     console.log(`The discord bot logged in! Username: ${client.user.username}!`)
     // Find the Discord channel messages will be sent to
     channel = client.channels.cache.get(channel)
-    if (!channel) {
-      console.log(`I could not find the channel (${process.argv[3]})!\nUsage : node discord.js <discord bot token> <channel id> <host> <port> [<name>] [<password>]`)
-      process.exit(1)
-    }
   })
   
   // Redirect Discord messages to in-game chat
