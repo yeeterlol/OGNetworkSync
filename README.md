@@ -2,7 +2,7 @@
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/yeeterlol/OGNetworkSync/blob/master/LICENSE" target="_blank">
-    <img alt="License: GPT--3" src="https://img.shields.io/badge/License-GNU-v3-yellow.svg" />
+    <img alt="License: GNU--v3" src="https://img.shields.io/badge/License-GNU--v3-yellow.svg" />
   </a>
 </p>
 
