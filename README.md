@@ -1,6 +1,5 @@
 <h1 align="center">Welcome to OG Network Guild Chat to Discord 👋</h1>
 
-<h1>WARNING: THIS IS NOT ALLOWED ON OG NETWORK BUT ILL RELEASE THIS ANYWAY
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/yeeterlol/OGNetworkSync/blob/master/LICENSE" target="_blank">
@@ -9,6 +8,7 @@
 </p>
 
 > A bot which automatically converts OG Network Guild Chat to Discord
+> Warning ⚠️: This is not allowed on OG Network, thanks to Mineflayer but before the admins told me I already completed it
 
 ### 🏠 [Homepage](https://github.com/yeeterlol/OGNetworkSync#readme)
 
